@@ -125,3 +125,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CSRF_TRUSTED_ORIGINS = ["http://localhost","http://127.0.0.1","http://salsabila-caturizky-mentalhealthtracker.pbp.cs.ui.ac.id", "https://salsabila-caturizky-mentalhealthtracker.pbp.cs.ui.ac.id"]
 # Coba push ulang untuk perbaiki secrets
+# Update secrets lagi
