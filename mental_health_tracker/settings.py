@@ -28,7 +28,7 @@ PRODUCTION = os.getenv("PRODUCTION", False)
 DEBUG = not PRODUCTION
 
 ALLOWED_HOSTS = ["localhost", "127.0.0.1", "salsabila-caturizky-mentalhealthtracker.pbp.cs.ui.ac.id", "10.0.2.2"]
-
+# deploy
 
 # Application definition
 
